@@ -27,6 +27,6 @@ First download YOLOv3 weight and put it in the src folder. Now just upload the c
 After the upload go to the serial monitor and you will see the IP Address that is assigned.
 Now you are good to go, run the python file and it will start fetching the images from the ip address on which the ESP32Cam is serving the image. Now point the camera to some object and it will start its object detection.
 
-Where can it be used ?:
+Where it can be used ?:
 ----------------------
 It can used it projects like self driving cars, robots which can itself identify obstacles and overcome that obstacle.
